@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@font-face
+{
+    font-family: 'ArcadeClassic';
+    src: url('../fonts/arcadeclassic-webfont.woff2') format('woff2'),
+         url('../fonts/arcadeclassic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+  font-family: 'ArcadeClassic', Arial, sans-serif;
+  background-color: #727687;
+  background-image: url("https://www.transparenttextures.com/patterns/notebook-dark.png");
+}
+
+#container
+{
+  width: 1160px;
+  margin: 0 auto;
+}
+
+h1
+{
+  text-align: center;
+  display: block;
+
+}
+#start
+{
+  text-align: left;
+}
+
+
+
+#life h3
+{
+  text-align: right;
+}
+
+.healthBar h3
+{
+  text-align: left;
+}
