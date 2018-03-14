@@ -15,3 +15,7 @@ This file is for Starship Troopers Game
 7. Boss Bus?? Only if we can get bugs to move
 
 8. Hopper bug? let's see if we can get 1 bug moving first.
+
+9. WINNING SCREEN: will say something like CONGRATULATIONS YOU'RE NOW A CITIZEN
+
+10. LOSING SCREEN: will say something like BUGS WIN, GAME OVER
